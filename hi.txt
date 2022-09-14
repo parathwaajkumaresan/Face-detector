@@ -1,2 +1,8 @@
 THIS is parathwaaj k 
 <http>
+e data requested has been assigned a new URI, the change is permanent. (N.B. this is an optimisation, which must, pragmatically, be included in this definition. Browsers with link editing capabiliy should automatically relink to the new reference, where possible)
+
+The response contains one or more header lines of the form
+
+       URI: <url> String CrLf
+
